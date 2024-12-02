@@ -140,3 +140,4 @@ app.get("/", (req, res) => {
 app.listen(port, () => {
   console.log(`COffee is getting warmer in port: ${port}`);
 });
+// "method": ["GET", "POST", "PUT", "PATCH", "DELETE", "OPTIONS"]
